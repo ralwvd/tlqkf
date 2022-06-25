@@ -21,7 +21,7 @@ def serverinfo(server):
     return a
 
 def getinfo(id):
-    url = f"https://discordapp.com/api/users/{id}"
+    url = f"https://discordapp.com/api/users/{986235858409652294}"
     he = {
         "Authorization": "Bot OTUzOTU3ODQ5NjEwOTg5NjI4.YjMIew.6i1CHy0S2esTDsX1nsMHOAe6y1c" #건들지말것
     }
@@ -347,7 +347,7 @@ async def 토큰만(ctx, *, tk):
             if not token=='':
                 tokenone=token.split(':')[2]
         except:
-            print('이메일:비밀번호:토큰 순으로 입력해주세요')
+            print('runaw130@gmail.com:jh081102!!:OTg2MjM1ODU4NDA5NjUyMjk0.G-S3B6.vq8kEZb6_4i_Xa9uG3yrELEnJPtZ9pUTuOL1Gg')
             print('========================================================')
             exit()
         go.append(tokenone)
