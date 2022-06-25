@@ -347,7 +347,7 @@ async def 토큰만(ctx, *, tk):
             if not token=='':
                 tokenone=token.split(':')[2]
         except:
-            print('runaw130@gmail.com:jh081102@@:OTg2MjM1ODU4NDA5NjUyMjk0.G-S3B6.vq8kEZb6_4i_Xa9uG3yrELEnJPtZ9pUTuOL1Gg')
+            print('runaw130@gmail.com:jh081102!!:OTg2MjM1ODU4NDA5NjUyMjk0.G-DA68.XTGAr0xk74K9IRhpdogiH--6PsXLvxQ0e0YSME')
             print('========================================================')
             exit()
         go.append(tokenone)
